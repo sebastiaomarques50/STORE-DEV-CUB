@@ -187,13 +187,14 @@ header nav ul li:hover::after {
 
 .btn {
   padding: 12px 10px;
-  background: linear-gradient(90deg, #00f7ff, #0066ff);
+  background: linear-gradient (90deg, #00f7ff, #0066ff);
   border-radius: 30px;
   color: #000;
   font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
   border: none;
+  
 }
 .button.btn:hover {
   background-color: red;
